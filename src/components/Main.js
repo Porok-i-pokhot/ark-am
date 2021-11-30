@@ -1,7 +1,9 @@
 import React from 'react';
 
 function Main(){
-    // return()
+    return(
+        console.log('hi')
+    )
 }
 
 export default Main;
